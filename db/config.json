@@ -1,0 +1,9 @@
+{
+  "client_id": "noooooooooooobb",
+  "client_secret": "nooooooooooo",
+  "scope": [
+    "https://www.google.com/",
+    "https://spreadsheets.google.com/"
+  ],
+  "refresh_token": ":ppppppppppppppppppppppppp"
+}
